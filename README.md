@@ -3,9 +3,9 @@
 
 <div display="inline">
   <a href="https://https://github.com/Gustavo-AB">
-  <img  width="500rem" src="https://github-readme-stats.vercel.app/api/?username=Gustavo-AB&hide=contribs,prs,issues&show_icons=true&show_icons=true&theme=midnight-purple&include_all_commits=True"/>  
+  <img  width="550rem"  src="https://github-readme-stats.vercel.app/api/?username=Gustavo-AB&hide=contribs,prs,issues&show_icons=true&show_icons=true&theme=midnight-purple&include_all_commits=True"/>  
     
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-AB&theme=midnight-purple"/>   
+  <img width="300rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-AB&theme=midnight-purple"/>   
 </div>
   
 
