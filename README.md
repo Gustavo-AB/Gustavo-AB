@@ -3,7 +3,7 @@
 
 <div display="inline">
 
-  <img  width="508rem"  src="https://github-readme-stats.vercel.app/api/?username=Gustavo-AB&hide=contribs,prs,issues&show_icons=true&show_icons=true&theme=midnight-purple&include_all_commits=True"/>
+  <img  width="508rem"  src="https://awesome-github-stats.azurewebsites.net/user-stats/Gustavo-AB?theme=dark"/>
   
  
   
