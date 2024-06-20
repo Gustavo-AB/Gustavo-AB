@@ -3,7 +3,6 @@
 
 <div display="inline">
 
-  <img  width="508rem"  src="https://awesome-github-stats.azurewebsites.net/user-stats/Gustavo-AB?theme=dark"/>
   
  
   
